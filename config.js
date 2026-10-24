@@ -27,7 +27,7 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Irene",
+  name: "雷莉",
   photo: "./img/irene.jpg",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
@@ -55,8 +55,8 @@ const CONFIG = {
   sections: [
     {
       type: "greeting",
-      title: "Hi",
-      subtitle: "I really like your name btw!",
+      title: "嗨",
+      subtitle: "雷莉宝宝，今天是你的生日",
     },
     {
       type: "countdown",
@@ -65,29 +65,29 @@ const CONFIG = {
     },
     {
       type: "announcement",
-      text: "It's your birthday!! :D",
+      text: "我研究了很久，才弄好这个网站 :P ",
     },
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
-      buttonText: "Send",
+        "我是不是很蠢，到现在才弄好给你",
+      buttonText: "点它",
     },
     {
       type: "ideas",
       lines: [
-        "That's what I was going to do.",
-        "But then I stopped.",
-        "I realised, I wanted to do something <strong>special</strong>.",
-        "Because,",
-        "You are Special <span>:)</span>",
+        "虽然是慢了点😋",
+        "但是我真的很用心",
+        "今天是你的<strong>生日</strong>.",
+        "所以你今天要开开心心的",
+        "把所有的烦恼都抛开<span>😉</span>",
       ],
-      bigLetters: "SO",
+      bigLetters: "你要知道",
     },
     {
       type: "quote",
-      text: "The more you praise and celebrate your life, the more there is in life to celebrate.",
-      author: "Oprah Winfrey",
+      text: "生日不只是一个节日，也是一个开始，希望它带给你改变、梦想与勇气",
+      author: "柴可夫斯基",
     },
     {
       type: "stars",
@@ -99,12 +99,12 @@ const CONFIG = {
     },
     {
       type: "profile",
-      wishTitle: "Happy Birthday!",
-      wishText: "May the js.prototypes always be with you! ;)",
+      wishTitle: "生日快乐，宝宝!",
+      wishText: "以后的每个生日我都会陪你的，不离不弃😘",
     },
     {
       type: "fireworks",
-      count: 24,
+      count: 22,
     },
     {
       type: "confetti",
@@ -112,8 +112,8 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Okay, now come back and tell me if you liked it.",
-      replayText: "Or click, if you want to watch it again.",
+      text: "嘿嘿，不知道你会不会喜欢这个网页",
+      replayText: "如果喜欢，你可以再看一遍😎",
     },
   ],
 };
